@@ -1,6 +1,15 @@
 # streamlit_-
 스트림릿을 사용하여 간단한 대시보드를 제작해본다. 
 
+streamlit run ***.py 
+
+## 0. sample_code.py
+---
+
+아마존의 우버 데이터를 통해서 시각화 예제를 진행함 
+
+
+
 ## 1. Data voucher sample 1 
 ---
 
